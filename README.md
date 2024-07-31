@@ -18,13 +18,13 @@ The project consists of three main files:
 - **Sales Trend:** Monthly sales trend analysis.
 
 ### 2. Orders Analysis Dashboard
-![Orders Analysis](path/to/superstore_order.png)
+![Orders Analysis](https://github.com/DaAlokSingh/Super-Store-Analysis/blob/main/superstore_order.png)
 - **Order Quantity:** Analysis of order quantities by region and segment.
 - **Order Trend:** Monthly order trends to identify peak periods.
 - **Top Customers:** List of top customers by sales volume.
 
 ### 3. Product Analysis Dashboard
-![Product Analysis](path/to/superstore_product.png)
+![Product Analysis](https://github.com/DaAlokSingh/Super-Store-Analysis/blob/main/superstore_product.png)
 - **Top Products:** Top-performing products by sales and profit.
 - **Category Analysis:** Sales and profit analysis by product category.
 - **Sub-Category Performance:** Detailed performance of sub-categories.
