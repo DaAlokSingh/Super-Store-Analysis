@@ -12,7 +12,7 @@ The project consists of three main files:
 
 ## Dashboards
 ### 1. Executive Summary Dashboard
-![Executive Summary]([path/to/superstore_exe.png](https://github.com/DaAlokSingh/Super-Store-Analysis/blob/main/superstore_exe.png))
+![Executive Summary](https://github.com/DaAlokSingh/Super-Store-Analysis/blob/main/superstore_exe.png))
 - **Sales Performance:** Overview of total sales, profit, and orders.
 - **Profit Analysis:** Breakdown of profit by region and product category.
 - **Sales Trend:** Monthly sales trend analysis.
